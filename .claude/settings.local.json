@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"from src.modules.klasifikasi import klasifikasi_osmolaritas, deteksi_kondisi_klinis; print\\(klasifikasi_osmolaritas\\(285\\)\\); print\\(klasifikasi_osmolaritas\\(300\\)\\)\")",
+      "Bash(python -c ' *)",
+      "Bash(mkdir -p output)",
+      "Bash(jupyter nbconvert *)",
+      "Bash(python -m jupyter nbconvert --to notebook --execute --inplace notebook.ipynb)"
+    ]
+  }
+}

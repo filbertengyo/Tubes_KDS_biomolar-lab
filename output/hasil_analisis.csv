@@ -1,0 +1,8 @@
+sample_id,kondisi,osm_DC,osm_VH,osmolal_gap,status,kondisi_klinis
+S001,Normal,290.0,552.0,262.0,Normal,Tidak ada kelainan terdeteksi
+S002,Hipernatremia,334.6,627.0,292.4,Hiperosmolar,Hipernatremia
+S003,Hiponatremia,253.01,480.61,227.6,Hipoosmolar,Hiponatremia
+S004,Hiperglikemia,309.1,557.3,248.2,Hiperosmolar,"Hiperglikemia (kemungkinan DM), Asidosis metabolik"
+S005,Gagal ginjal,303.56,545.96,242.4,Hiperosmolar,"Hiperkalemia, Azotemia (kemungkinan gangguan ginjal), Asidosis metabolik"
+S006,Asidosis metabolik,293.83,544.83,251.0,Normal,"Hiperkalemia, Azotemia (kemungkinan gangguan ginjal), Asidosis metabolik"
+S007,Dehidrasi,317.41,602.21,284.8,Hiperosmolar,"Hipernatremia, Azotemia (kemungkinan gangguan ginjal)"

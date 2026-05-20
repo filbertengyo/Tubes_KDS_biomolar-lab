@@ -1,0 +1,19 @@
+{
+  "referensi": "Harrison's Principles of Internal Medicine, 21st ed.",
+  "satuan_default": "mEq/L",
+  "ion": {
+    "na":   { "nama": "Natrium (Na+)",    "min": 136, "max": 145, "satuan": "mEq/L" },
+    "k":    { "nama": "Kalium (K+)",      "min": 3.5, "max": 5.0, "satuan": "mEq/L" },
+    "cl":   { "nama": "Klorida (Cl-)",    "min": 98,  "max": 106, "satuan": "mEq/L" },
+    "hco3": { "nama": "Bikarbonat (HCO3-)","min": 22, "max": 28,  "satuan": "mEq/L" },
+    "gluc": { "nama": "Glukosa",          "min": 70,  "max": 100, "satuan": "mg/dL"  },
+    "bun":  { "nama": "BUN (Ureum)",      "min": 7,   "max": 20,  "satuan": "mg/dL"  }
+  },
+  "osmolaritas": {
+    "hipoosmolar_batas": 275,
+    "normal_min": 275,
+    "normal_max": 295,
+    "hiperosmolar_batas": 295,
+    "satuan": "mOsm/kg"
+  }
+}

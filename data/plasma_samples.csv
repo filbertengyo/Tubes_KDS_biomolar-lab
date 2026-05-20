@@ -1,0 +1,8 @@
+sample_id,kondisi,na,k,cl,hco3,glukosa_mgdl,bun_mgdl
+S001,Normal,140,4.0,102,25,90,14
+S002,Hipernatremia,162,4.2,118,24,88,16
+S003,Hiponatremia,122,3.8,88,22,85,12
+S004,Hiperglikemia,138,4.1,100,20,480,18
+S005,Gagal ginjal,137,6.2,99,16,95,68
+S006,Asidosis metabolik,139,5.5,108,12,92,30
+S007,Dehidrasi,152,4.4,112,26,100,22
